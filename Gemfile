@@ -48,8 +48,8 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 #gem 'bootswatch'
-#gem 'bootstrap-sass', '~> 3.4.1'
-#gem 'sassc-rails', '>= 2.1.0'
+gem 'bootstrap-sass', '~> 3.4.1'
+gem 'sass-rails', '>= 2.1.0'
 gem 'jquery-rails'
 #gem 'jquery-ui-rails'
 

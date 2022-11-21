@@ -99,7 +99,6 @@
     <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.5, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.2, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, rbenv: 2.7.6) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sassc-rails (v2.1.2, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v4.4.0, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="simple_form (v5.1.0, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.1.1, rbenv: 2.7.6) [gem]" level="application" />
@@ -108,7 +107,6 @@
     <orderEntry type="library" scope="PROVIDED" name="stimulus-rails (v1.1.0, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="strscan (v3.0.4, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v1.2.1, rbenv: 2.7.6) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.0.11, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="timeout (v0.3.0, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turbo-rails (v1.1.1, rbenv: 2.7.6) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.5, rbenv: 2.7.6) [gem]" level="application" />
@@ -158,8 +156,6 @@
         <option value="responders_controller" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
-        <option value="scss:assets" />
-        <option value="scss:scaffold" />
         <option value="simple_form:install" />
         <option value="stimulus" />
         <option value="system_test" />
@@ -203,8 +199,6 @@
         <option value="responders_controller" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
-        <option value="scss:assets" />
-        <option value="scss:scaffold" />
         <option value="simple_form:install" />
         <option value="stimulus" />
         <option value="system_test" />
